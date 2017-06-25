@@ -1,8 +1,8 @@
 #Projeto Frontend Cucumber + Capybara
-###Requisitos
+### Requisitos
 Ruby previamente instalado
 
-###Passos
+### Passos:
 * Baixar o repositório do github.
 * Na pasta do projeto executar o comando 'bundle install'.
 * São instaladas as gems Cucumber, Capybara e Selenium.
