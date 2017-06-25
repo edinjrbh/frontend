@@ -1,4 +1,6 @@
 	<html>
+	<head></head>
+	<body>
 	<h2>Cucumber + Capybara</h2>
 	<h3>Requisitos</h3>
 	<ul>
@@ -12,4 +14,5 @@
 		<li>Na pasta do projeto executar o comando 'cucumber USER=tomsmith PASSWORD=SuperSecretPassword!'
 		<li>O prompt de comando utilizado mostra os resultados dos testes.</li>
 	</ul>
+	</body>
 	</html>
