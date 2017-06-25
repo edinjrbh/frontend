@@ -1,4 +1,4 @@
-#Projeto Frontend Cucumber + Capybara
+# Projeto Frontend Cucumber + Capybara
 ### Requisitos
 Ruby previamente instalado
 
