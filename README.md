@@ -1,7 +1,7 @@
 # Projeto Frontend Cucumber + Capybara
 ### Requisitos
-Ruby previamente instalado.
-Mozilla Firefox até a versão 46.0 (Geckodriver desabilitado).
+* Ruby previamente instalado.
+* Mozilla Firefox até a versão 46.0 (Geckodriver desabilitado).
 
 ### Passos:
 * Baixar o repositório do github.
